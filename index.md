@@ -1,13 +1,20 @@
-# Welcome!
+---
+layout: default
+title: Vítejte!
+---
 
-We’re so glad you’re staying here.
+Vítejte v bytě.
 
-This guide contains everything you need to enjoy your stay and feel at home. Inside you’ll find:
+Tato stránka slouží jako přehled důležitých informací pro váš pobyt. Najdete zde praktické pokyny k vybavení bytu, provozním záležitostem i základní pravidla užívání.
 
-- 🔧 Appliance instructions  
-- 🗑 Trash & recycling details 
-- 📍 Local recommendations  
+Obsah průvodce:
 
-If you can’t find something, please don’t hesitate to reach out.
+- 📶 Informace o internetu  
+- 🔧 Návody k použití spotřebičů  
+- 🗑 Odpad a recyklace  
+- 🏠 Pravidla užívání bytu  
+- 📍 Užitečné kontakty a informace o okolí  
 
-We hope you have a comfortable, relaxing stay!
+Doporučujeme si tyto informace projít při nastěhování a v případě potřeby se k nim kdykoli vrátit.
+
+Pokud zde nenajdete odpověď na svou otázku, neváhejte nás kontaktovat.
