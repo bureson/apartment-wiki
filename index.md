@@ -9,7 +9,7 @@ Tato stránka slouží jako přehled důležitých informací pro váš pobyt. N
 
 Obsah průvodce:
 
-- [Obecné informace]({{ '/obecne/' | relative_url }})
+- [Dolní Chabry]({{ '/dolni-chabry/' | relative_url }})
 
 Doporučujeme si tyto informace projít při nastěhování a v případě potřeby se k nim kdykoli vrátit.
 

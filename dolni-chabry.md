@@ -1,9 +1,8 @@
 ---
 layout: page
-permalink: /obecne/
+title: Dolní Chabry
+permalink: /dolni-chabry/
 ---
-
-# Obecné informace o Dolních Chabrech
 
 Dolní Chabry jsou klidná a příjemná městská část na severním okraji Prahy, ideální pro ty, kdo hledají kombinaci pohodového bydlení, přírody na dosah a zároveň dobrou dostupnost do centra. Najdete zde spíše venkovský ráz s rodinnými domy, menší zástavbou a přátelskou atmosférou.
 
