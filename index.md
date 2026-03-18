@@ -9,7 +9,7 @@ Tato stránka slouží jako přehled důležitých informací pro váš pobyt. N
 
 Obsah průvodce:
 
-- [Obecné informace]({{ '/about/' | relative_url }})
+- [Obecné informace]({{ '/obecne/' | relative_url }})
 
 Doporučujeme si tyto informace projít při nastěhování a v případě potřeby se k nim kdykoli vrátit.
 

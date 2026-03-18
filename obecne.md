@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Obecné informace o Dolních Chabrech
 permalink: /obecne/
 ---
 
