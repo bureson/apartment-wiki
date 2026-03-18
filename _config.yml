@@ -1,3 +1,5 @@
 theme: minima
 title: Manuál k bytu
 description: Vítejte U Jízdárny 16, v bytě č. 40
+header_pages:
+  - obecne.md

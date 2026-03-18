@@ -3,17 +3,13 @@ layout: default
 title: Vítejte!
 ---
 
-Vítejte v bytě.
+Vítejte v bytě č. 40 U Jízdárny 16.
 
 Tato stránka slouží jako přehled důležitých informací pro váš pobyt. Najdete zde praktické pokyny k vybavení bytu, provozním záležitostem i základní pravidla užívání.
 
 Obsah průvodce:
 
-- 📶 Informace o internetu  
-- 🔧 Návody k použití spotřebičů  
-- 🗑 Odpad a recyklace  
-- 🏠 Pravidla užívání bytu  
-- 📍 Užitečné kontakty a informace o okolí  
+- [Obecné informace]({{ '/about/' | relative_url }})
 
 Doporučujeme si tyto informace projít při nastěhování a v případě potřeby se k nim kdykoli vrátit.
 
