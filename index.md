@@ -11,6 +11,7 @@ Obsah průvodce:
 
 - [Dolní Chabry]({{ '/dolni-chabry/' | relative_url }})
 - [Internet]({{ '/internet/' | relative_url }})
+- [Odpad]({{ '/odpad/' | relative_url }})
 
 Doporučujeme si tyto informace projít při nastěhování a v případě potřeby se k nim kdykoli vrátit.
 
