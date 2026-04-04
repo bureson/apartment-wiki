@@ -15,6 +15,8 @@ V koupelně a na WC je nainstalováno elektrické podlahové vytápění, které
 
 ## Osvětlení Hue
 
-V koupelně je nainstalováno stropní osvětlení Hue Xamento, které poskytuje příjemné a efektivní osvětlení dle vašich potřeb. Ovládat ho můžete jak pomocí ovladače na zdi, tak také prostřednictvím mobilní aplikace Hue, která vám umožní nastavit intenzitu světla nebo změnit barvu světla podle nálady či situace.
+V koupelně je nainstalováno stropní osvětlení Hue Xamento, které poskytuje příjemné a efektivní osvětlení dle vašich potřeb. Ovládat ho můžete jak pomocí ovladače na zdi, tak také prostřednictvím mobilní aplikace Hue, která vám umožní nastavit intenzitu světla nebo změnit barvu světla podle nálady či situace. Nejlepší je světlo propojit s Hue Bridge, který vám umožní plně využívat možnosti automatizace a ovládání.
 
-Na WC jsou pak jako doplňkové osvětlení použita dvě bodová světla Hue GU10, která lze propojit s pohybovým senzorem pod umyvadlem. Díky tomu můžete zajistit, že se světla automaticky rozsvítí v noci, ale pouze na nízkou, decentní intenzitu. Tato funkce je ideální, když potřebujete jemné osvětlení pro orientaci uprostřed noci, aniž by vás oslnilo nebo rušilo.
+Na WC jsou pak jako doplňkové osvětlení použita dvě bodová světla Hue GU10, která lze propojit s pohybovým senzorem Hue. Tímto způsobem můžete nastavit různé scénáře, které se aktivují v závislosti na denní době nebo na detekci pohybu. Například v noci se světla automaticky rozsvítí na nízkou intenzitu a jemnou barvu, což je ideální pro noční návštěvy WC, kdy je potřeba minimální světlo, které vás neoslní. Pokud máte Hue Bridge, můžete také nastavit různé barvy a intenzity světla pro různé časy dne nebo noční návštěvy, čímž si zajistíte přizpůsobené osvětlení pro každou situaci.
+
+Pro optimální nastavení je nutné propojit jak pohybový senzor, tak i světla s Hue Bridge, který vám umožní využít pokročilé možnosti automatizace a propojení všech zařízení v rámci systému Hue.
